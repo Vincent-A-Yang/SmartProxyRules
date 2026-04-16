@@ -13,6 +13,7 @@
 **[📱Phone版](https://raw.githubusercontent.com/Vincent-A-Yang/SmartProxyRules/main/smart-remote-phone.ini)**
 
 **[🐱MiHomo版](https://raw.githubusercontent.com/Vincent-A-Yang/SmartProxyRules/main/smart-remote-mihomo.ini)**
+
 **（Mihomo可能需要自行下载或打开链接后自行复制所有内容粘贴至'comfig.yaml'里使用，修改前请务必做好原文件的备份！）**
 
 ### 规则功能
