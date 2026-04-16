@@ -6,15 +6,8 @@
 - **服务分流**：为不同的网络服务（如 AI、Google、Cloudflare、GitHub、YouTube 等）提供精准的流量分流。
 - **节点过滤**：使用正则过滤掉包含“剩余流量”、“套餐到期”、“官网”等无效节点。
 - **健康检查**：支持对代理节点进行延迟检测与故障转移。
-- **简化配置**：此仓库只包含一个 INI 配置文件，无需额外的 `rules/*.list` 文件。
 
 **[右键复制链接使用](https://github.com/Vincent-A-Yang/SmartProxyRules/blob/main/smart-remote.ini)**
-
-## 配置结构
-
-### `smart-remote.ini`
-
-这是唯一需要使用的配置文件，包含所有的代理规则和服务分流配置。你可以直接将此文件上传到 GitHub，并使用其 raw 链接作为远程配置链接，进行订阅转换。
 
 ### 规则功能
 
