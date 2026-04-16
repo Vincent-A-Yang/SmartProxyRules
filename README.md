@@ -7,7 +7,10 @@
 - **节点过滤**：使用正则过滤掉包含“剩余流量”、“套餐到期”、“官网”等无效节点。
 - **健康检查**：支持对代理节点进行延迟检测与故障转移。
 
-**[右键复制链接使用](https://raw.githubusercontent.com/Vincent-A-Yang/SmartProxyRules/main/smart-remote.ini)**
+### 右键复制使用
+**[PC版](https://raw.githubusercontent.com/Vincent-A-Yang/SmartProxyRules/main/smart-remote.ini)**
+**[Phone版](https://raw.githubusercontent.com/Vincent-A-Yang/SmartProxyRules/main/smart-remote-phone.ini)**
+**[MiHomo版](https://raw.githubusercontent.com/Vincent-A-Yang/SmartProxyRules/main/smart-remote-mihomo.ini)**
 
 ### 规则功能
 
