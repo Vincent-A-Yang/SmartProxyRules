@@ -12,7 +12,7 @@
 
 **[📱Phone版](https://raw.githubusercontent.com/Vincent-A-Yang/SmartProxyRules/main/smart-remote-phone.ini)**
 
-**[🐱MiHomo版](https://raw.githubusercontent.com/Vincent-A-Yang/SmartProxyRules/main/smart-remote-mihomo.ini)**（需手动复制生成的内容到config.yaml使用）
+**[⚠️MiHomo版](https://raw.githubusercontent.com/Vincent-A-Yang/SmartProxyRules/main/smart-remote-mihomo.ini)**（需手动复制生成的内容到config.yaml使用，但！它有问题，目前没想到解决办法~）
 
 ### 规则功能
 
