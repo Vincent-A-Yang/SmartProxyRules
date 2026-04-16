@@ -12,6 +12,8 @@
 
 **[📱Phone版](https://raw.githubusercontent.com/Vincent-A-Yang/SmartProxyRules/main/smart-remote-phone.ini)**
 
+**[🐱MiHomo版](https://raw.githubusercontent.com/Vincent-A-Yang/SmartProxyRules/main/smart-remote-mihomo.ini)**（需手动复制生成的内容到config.yaml使用）
+
 ### 规则功能
 
 - **智能路由 (`🚀 智能路由`)**：根据服务的地理位置自动选择最佳节点。
