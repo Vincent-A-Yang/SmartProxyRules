@@ -7,6 +7,7 @@
 - **节点过滤**：使用正则过滤掉包含“剩余流量”、“套餐到期”、“官网”等无效节点。
 - **健康检查**：支持对代理节点进行延迟检测与故障转移。
 - **简化配置**：此仓库只包含一个 INI 配置文件，无需额外的 `rules/*.list` 文件。
+## 右键复制链接使用 https://github.com/Vincent-A-Yang/SmartProxyRules/blob/main/smart-remote.ini
 
 ## 配置结构
 
